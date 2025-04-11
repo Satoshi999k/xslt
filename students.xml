@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="students.xsl"?>
+<students>
+    <student>
+        <name>John Doe</name>
+        <age>20 yrs old</age>
+        <year>2nd year</year>
+        <course>BSIT</course>
+    </student>
+    <student>
+        <name>Kenneth Semorlan</name>
+        <age>21 yrs old</age>
+        <year>3rd year</year>
+        <course>BSIT</course>
+    </student>
+    <student>
+        <name>Kenneth Orada</name>
+        <age>20 yrs old</age>
+        <year>2nd year</year>
+        <course>BSBA</course>
+    </student>
+    <student>
+        <name>Earl Andre</name>
+        <age>21 yrs old</age>
+        <year>3rd year</year>
+        <course>BSIT</course>
+    </student>
+    <student>
+        <name>Ryan Mangaliwan</name>
+        <age>19 yrs old</age>
+        <year>1st year</year>
+        <course>BSIT</course>
+    </student>
+    <student>
+        <name>Ken Belsonda</name>
+        <age>20 yrs old</age>
+        <year>2nd year</year>
+        <course>BSCE</course>
+    </student>
+</students>
